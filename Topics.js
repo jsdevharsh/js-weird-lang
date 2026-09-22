@@ -484,131 +484,127 @@ const TYPE_SCRIPT = [
 ];
 
 const JAVASCRIPT = [
-  {
-    "title": "Browser Reflow vs Paint",
-    "href": "https://chatgpt.com/share/6aa426da-e44c-83e8-8aa0-36828436b615"
-  },
-  {
-    "title": "ES6 Polyfills map filter reduce",
-    "href": "https://chatgpt.com/share/6aa52ef3-ca20-83ee-b965-011df388acd3"
-  },
-  {
-    "title": "Currying in JavaScript",
-    "href": "https://chatgpt.com/share/6aa42b04-850c-83e8-9874-736f252ea1a0"
-  },
-  {
-    "title": "Debouncing and Throttling JS",
-    "href": "https://chatgpt.com/share/6aa42b19-38b4-83ee-924f-8e08141cf59e"
-  },
-  {
-    "title": "ES6 and ES7 Features",
-    "href": "https://chatgpt.com/share/6aa42b2e-42cc-83e8-a244-a0788d764a66"
-  },
-  {
-    "title": "Promise Async/Await Explained",
-    "href": "https://chatgpt.com/share/6aa42b44-8aa8-83ee-a620-3f7d95db748b"
-  },
-  {
-    "title": "Shallow vs Deep Copy JS",
-    "href": "https://chatgpt.com/share/6aa42b44-8aa8-83ee-a620-3f7d95db748b"
-  },
-  {
-    "title": "JavaScript this behavior",
-    "href": "https://chatgpt.com/share/6aa42b6f-384c-83e8-bf55-936ff11c6b96"
-  },
-  {
-    "title": "Map WeakMap Set Differences",
-    "href": "https://chatgpt.com/share/6aa42b83-cec4-83e8-8150-a0630c328714"
-  },
-  {
-    "title": "Hoisting in JavaScript",
-    "href": "https://chatgpt.com/share/6aa42b98-faf0-83e8-9f2e-d03f60afa1db"
-  },
-  {
-    "title": "Hoisting in JavaScript",
-    "href": "https://chatgpt.com/share/6aa42b98-faf0-83e8-9f2e-d03f60afa1db"
-  },
-  {
-    "title": "Expiration for Storage Methods",
-    "href": "https://chatgpt.com/share/6aa42bc2-e218-83ee-a372-acb58f4e4afc"
-  },
-  {
-    "title": "Callback to Promise Conversion",
-    "href": "https://chatgpt.com/share/6aa42bd7-e6d8-83e8-8f5b-ee9b91b9b542"
-  },
-  {
-    "title": "Event Delegation in JS",
-    "href": "https://chatgpt.com/share/6aa42bed-4208-83e8-9dc7-a3b1114de205"
-  },
-  {
-    "title": "Nullish Coalescing vs OR",
-    "href": "https://chatgpt.com/share/6aa42c02-1344-83e8-b49f-f03609dbb077"
-  },
-  {
-    "title": "Async/Await in JS",
-    "href": "https://chatgpt.com/share/6aa42c17-7624-83e9-8c54-a1b533e4aeb9"
-  },
-  {
-    "title": "Promises vs Callbacks",
-    "href": "https://chatgpt.com/share/6aa42c2c-6178-83e8-bd92-55312ecef9a5"
-  },
-  {
-    "title": "Lexical Scope in JS",
-    "href": "https://chatgpt.com/share/6aa42c41-cf34-83ee-bf8d-4ab06e3e13e5"
-  },
-  {
-    "title": "Method Chaining in JS",
-    "href": "https://chatgpt.com/share/6aa42c56-93a4-83ee-a9c3-dceecc3a75a7"
-  },
-  {
-    "title": "JavaScript Coupling Type",
-    "href": "https://chatgpt.com/share/6aa42c6b-c7bc-83ee-aca9-c34813314b7d"
-  },
-  {
-    "title": "Call Apply Bind Deep Dive",
-    "href": "https://chatgpt.com/share/6aa42c80-f0dc-83e8-9987-5be9f5e33330"
-  },
-  {
-    "title": "Hoisting and TDZ",
-    "href": "https://chatgpt.com/share/6aa42c95-d278-83e8-9f37-5b4d39a7d517"
-  },
-  {
-    "title": "Promise in JavaScript",
-    "href": "https://chatgpt.com/share/6aa42cab-37a8-83e8-8e2a-a30cf635df0c"
-  },
-  {
-    "title": "ES6 Features Explained",
-    "href": "https://chatgpt.com/share/6aa42cab-37a8-83e8-8e2a-a30cf635df0c"
-  },
-  {
-    "title": "JavaScript Map Types",
-    "href": "https://chatgpt.com/share/6aa42cd7-dff8-83e8-b952-edf34c609383"
-  },
-  {
-    "title": "What is web vitals",
-    "href": "https://chatgpt.com/share/6aa42ceb-67e4-83ee-8d21-4c346f36fa16"
-  },
-  {
-    "title": "LocalStorage vs HttpOnly Cookies",
-    "href": "https://chatgpt.com/share/6aa42d00-e620-83e8-9c56-3461c0317b99"
-  },
-  {
-    "title": "Variable Redeclaration Error",
-    "href": "https://chatgpt.com/share/6aa42d16-016c-83ee-bda0-396e22645b5f"
-  },
-  {
-    "title": "Critical Rendering Path",
-    "href": "https://chatgpt.com/share/6aa42d16-016c-83ee-bda0-396e22645b5f"
-  },
-  {
-    "title": "Async vs Regular Functions",
-    "href": "https://chatgpt.com/share/6aa42d40-21a4-83e9-b5f7-4dfb7f8435ae"
-  },
-  {
-    "title": "Garbage Collection in JS",
-    "href": "https://chatgpt.com/share/6aa42d55-89dc-83e8-9729-1040ff6ec43f"
-  }
-];
+    {
+        "title": "ES6 Polyfills map filter reduce",
+        "href": "https://chatgpt.com/share/6aa52ef3-ca20-83ee-b965-011df388acd3"
+    },
+    {
+        "title": "New chat",
+        "href": "https://chatgpt.com/share/6aa42ceb-67e4-83ee-8d21-4c346f36fa16"
+    },
+    {
+        "title": "LocalStorage vs HttpOnly Cookies",
+        "href": "https://chatgpt.com/share/6aa42d00-e620-83e8-9c56-3461c0317b99"
+    },
+    {
+        "title": "Variable Redeclaration Error",
+        "href": "https://chatgpt.com/share/6aa42d16-016c-83ee-bda0-396e22645b5f"
+    },
+    {
+        "title": "Async vs Regular Functions",
+        "href": "https://chatgpt.com/share/6aa42d40-21a4-83e9-b5f7-4dfb7f8435ae"
+    },
+    {
+        "title": "Garbage Collection in JS",
+        "href": "https://chatgpt.com/share/6aa42d55-89dc-83e8-9729-1040ff6ec43f"
+    },
+    {
+        "title": "JavaScript Map Types",
+        "href": "https://chatgpt.com/share/6aa42cd7-dff8-83e8-b952-edf34c609383"
+    },
+    {
+        "title": "Promise in JavaScript",
+        "href": "https://chatgpt.com/share/6aa42cab-37a8-83e8-8e2a-a30cf635df0c"
+    },
+    {
+        "title": "Hoisting and TDZ",
+        "href": "https://chatgpt.com/share/6aa42c95-d278-83e8-9f37-5b4d39a7d517"
+    },
+    {
+        "title": "Call Apply Bind Deep Dive",
+        "href": "https://chatgpt.com/share/6aa42c80-f0dc-83e8-9987-5be9f5e33330"
+    },
+    {
+        "title": "JavaScript Coupling Type",
+        "href": "https://chatgpt.com/share/6aa42c6b-c7bc-83ee-aca9-c34813314b7d"
+    },
+    {
+        "title": "Method Chaining in JS",
+        "href": "https://chatgpt.com/share/6aa42c56-93a4-83ee-a9c3-dceecc3a75a7"
+    },
+    {
+        "title": "Lexical Scope in JS",
+        "href": "https://chatgpt.com/share/6aa42c41-cf34-83ee-bf8d-4ab06e3e13e5"
+    },
+    {
+        "title": "Promises vs Callbacks",
+        "href": "https://chatgpt.com/share/6aa42c2c-6178-83e8-bd92-55312ecef9a5"
+    },
+    {
+        "title": "Async/Await in JS",
+        "href": "https://chatgpt.com/share/6aa42c17-7624-83e9-8c54-a1b533e4aeb9"
+    },
+    {
+        "title": "Nullish Coalescing vs OR",
+        "href": "https://chatgpt.com/share/6aa42c02-1344-83e8-b49f-f03609dbb077"
+    },
+    {
+        "title": "Event Delegation in JS",
+        "href": "https://chatgpt.com/share/6aa42bed-4208-83e8-9dc7-a3b1114de205"
+    },
+    {
+        "title": "Callback to Promise Conversion",
+        "href": "https://chatgpt.com/share/6aa42bd7-e6d8-83e8-8f5b-ee9b91b9b542"
+    },
+    {
+        "title": "Expiration for Storage Methods",
+        "href": "https://chatgpt.com/share/6aa42bc2-e218-83ee-a372-acb58f4e4afc"
+    },
+    {
+        "title": "Map WeakMap Set Differences",
+        "href": "https://chatgpt.com/share/6aa42b83-cec4-83e8-8150-a0630c328714"
+    },
+    {
+        "title": "JavaScript this behavior",
+        "href": "https://chatgpt.com/share/6aa42b6f-384c-83e8-bf55-936ff11c6b96"
+    },
+    {
+        "title": "Promise Async/Await Explained",
+        "href": "https://chatgpt.com/share/6aa42b44-8aa8-83ee-a620-3f7d95db748b"
+    },
+    {
+        "title": "ES6 and ES7 Features",
+        "href": "https://chatgpt.com/share/6aa42b2e-42cc-83e8-a244-a0788d764a66"
+    },
+    {
+        "title": "Debouncing and Throttling JS",
+        "href": "https://chatgpt.com/share/6aa42b19-38b4-83ee-924f-8e08141cf59e"
+    },
+    {
+        "title": "Currying in JavaScript",
+        "href": "https://chatgpt.com/share/6aa42b04-850c-83e8-9874-736f252ea1a0"
+    },
+    {
+        "title": "Browser Reflow vs Paint",
+        "href": "https://chatgpt.com/share/6aa426da-e44c-83e8-8aa0-36828436b615"
+    },
+    {
+        "title": "Shallow vs Deep Copy JS",
+        "href": "https://chatgpt.com/share/6ab2dd24-91dc-83ee-8198-b56a5fb179aa"
+    },
+    {
+        "title": "Hoisting in JavaScript",
+        "href": "https://chatgpt.com/share/6aa42b98-faf0-83e8-9f2e-d03f60afa1db"
+    },
+    {
+        "title": "ES6 Features Explained",
+        "href": "https://chatgpt.com/share/6ab2de70-a6f0-83e8-93ce-43a9cbe0ba1b"
+    },
+    {
+        "title": "Critical Rendering Path",
+        "href": "https://chatgpt.com/share/6ab2de9d-637c-83e8-9524-1fd4eb0af420"
+    }
+]
 
 const NEXT_JS = [
   {
