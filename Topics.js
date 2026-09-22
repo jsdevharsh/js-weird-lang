@@ -621,6 +621,81 @@ const NEXT_JS = [
   }
 ];
 
+const MICROFRONTEND_REACT = [
+    {
+        "title": "Microfrontend rollback strategy",
+        "href": "https://chatgpt.com/share/6ab2df7e-5234-83e8-9be9-a477e348f71c"
+    },
+    {
+        "title": "Deploying Microfrontends Independently",
+        "href": "https://chatgpt.com/share/6ab2df92-5d60-83ee-b3ab-0b2956128dbd"
+    },
+    {
+        "title": "Debug Microfrontend Issue",
+        "href": "https://chatgpt.com/share/6ab2dfa7-7c9c-83e8-a0c6-09e33ec5e957"
+    },
+    {
+        "title": "Microfrontend disadvantages",
+        "href": "https://chatgpt.com/share/6ab2dfbc-9434-83e8-b149-889b68a025aa"
+    },
+    {
+        "title": "Microfrontend state management",
+        "href": "https://chatgpt.com/share/6ab2dfd1-bd50-83ee-ae91-6bd5f6e3cfe5"
+    },
+    {
+        "title": "Prevent Duplicate React Bundles",
+        "href": "https://chatgpt.com/share/6ab2dfe7-2a04-83e9-9e55-aa905586e531"
+    },
+    {
+        "title": "Handle Version Compatibility",
+        "href": "https://chatgpt.com/share/6ab2dffc-714c-83e8-84a7-2db4120277f6"
+    },
+    {
+        "title": "Microfrontend failure isolation",
+        "href": "https://chatgpt.com/share/6ab2e011-7860-83e8-88e8-f84ec1f049c2"
+    },
+    {
+        "title": "Maintaining Microfrontend Design Systems",
+        "href": "https://chatgpt.com/share/6ab2e026-b75c-83e8-9d79-a6598f1b1c2c"
+    },
+    {
+        "title": "Microfrontend authentication overview",
+        "href": "https://chatgpt.com/share/6ab2e03c-1024-83ee-ae08-b09df452a5f0"
+    },
+    {
+        "title": "Microfrontend routing approach",
+        "href": "https://chatgpt.com/share/6ab2e051-41c8-83e8-befe-d205c6920a2c"
+    },
+    {
+        "title": "Module Federation Comparison",
+        "href": "https://chatgpt.com/share/6ab2e066-7280-83e8-be12-23df1d916df1"
+    },
+    {
+        "title": "Module Federation Explanation",
+        "href": "https://chatgpt.com/share/6ab2e07b-9df4-83e8-bb41-c95e9ff3ad71"
+    },
+    {
+        "title": "Shared React Dependencies",
+        "href": "https://chatgpt.com/share/6ab2e090-bed0-83ee-b260-92eff6f6a376"
+    },
+    {
+        "title": "Share Microfrontend Components",
+        "href": "https://chatgpt.com/share/6ab2e0a6-2a4c-83ee-ac28-2faa15c880b3"
+    },
+    {
+        "title": "Microfrontend Communication Methods",
+        "href": "https://chatgpt.com/share/6ab2e0bb-1878-83ee-970f-b93d28b4e08c"
+    },
+    {
+        "title": "Microfrontend Division Strategy",
+        "href": "https://chatgpt.com/share/6ab2e0d0-52d4-83ee-b87f-093be28a79cb"
+    },
+    {
+        "title": "Explain Microfrontend Architecture",
+        "href": "https://chatgpt.com/share/6ab2e0e5-90e0-83ee-bdf7-ffc4598c882d"
+    }
+];
+
 
 export const TUTORIALS_LIST = [
     {
@@ -647,5 +722,11 @@ export const TUTORIALS_LIST = [
         topicKey: "nextjs",
         name: "Next.js",
         list: [...NEXT_JS]
-    } 
+    },
+    {
+        topicKey: "microfrontend",
+        name: "Microfrontend React",
+        list: [...MICROFRONTEND_REACT]
+    },
+
 ]
