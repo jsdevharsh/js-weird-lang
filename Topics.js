@@ -107,202 +107,294 @@ const NODE = [
 
 const REACT = [
     {
-        "title": "React use() API",
-        "href": "https://chatgpt.com/share/69c409cd-5a1c-8323-993d-77d88beb88ae"
-    },
-    {
-        "title": "React State Mutation Issue",
-        "href": "https://chatgpt.com/share/69c409e3-5174-8321-a224-33961f3fc91f"
-    },
-    {
-        "title": "useEffect Infinite Loop",
-        "href": "https://chatgpt.com/share/69c409f8-a578-8320-879b-832928714d79"
-    },
-    {
-        "title": "Lazy Initializer + Effect",
-        "href": "https://chatgpt.com/share/69c40a28-8b9c-8322-935c-a05f828a3a69"
-    },
-    {
-        "title": "React useState Difference",
-        "href": "https://chatgpt.com/share/69c40a3b-5ba4-83a9-aa2a-710ed84fa087"
-    },
-    {
-        "title": "React JS hooks list",
-        "href": "https://chatgpt.com/share/69c40a4d-6eb8-83a8-b1f2-3385231ab6c0"
-    },
-    {
-        "title": "useTransition hook explanation",
-        "href": "https://chatgpt.com/share/69c40a60-901c-8320-8587-f77bfc0b1ab5"
-    },
-    {
-        "title": "Improve React load time",
-        "href": "https://chatgpt.com/share/69c40a74-f530-8323-a709-70b283f94593"
-    },
-    {
-        "title": "React security practices",
-        "href": "https://chatgpt.com/share/69c40a86-27d0-83a9-95b9-2dd62ebe4e00"
-    },
-    {
-        "title": "React Query overview",
-        "href": "https://chatgpt.com/share/69c406fa-b12c-8324-97ff-5c1fb0328863"
-    },
-    {
-        "title": "Reconciliation in React",
-        "href": "https://chatgpt.com/share/69c409b8-a058-8320-8597-a3822f37098e"
-    },
-    {
-        "title": "React 18 19 Hooks",
-        "href": "https://chatgpt.com/share/69c409a1-dd24-83a6-84ad-2adb28ca3534"
-    },
-    {
-        "title": "Create custom store React",
-        "href": "https://chatgpt.com/share/69c408d4-cbf0-8323-bea3-44f028373200"
-    },
-    {
-        "title": "Benefits of Custom Hooks",
-        "href": "https://chatgpt.com/share/69c40988-d68c-83a2-aa9b-75188d05ff3d"
-    },
-    {
-        "title": "Avoid re-renders with hooks",
-        "href": "https://chatgpt.com/share/69c408c1-0b4c-8323-9aca-515e7037cf9e"
-    },
-    {
-        "title": "useLayoutEffect explanation",
-        "href": "https://chatgpt.com/share/69c408ad-5028-8321-95dc-137c547e41b5"
-    },
-    {
         "title": "React component lifecycle hooks",
-        "href": "https://chatgpt.com/share/69c40897-e580-8322-8b49-b42afb52acf3"
-    },
-    {
-        "title": "React app performance tips",
-        "href": "https://chatgpt.com/share/69c40882-b640-83a3-8321-b0a184a9a978"
-    },
-    {
-        "title": "Avoid context re-renders",
-        "href": "https://chatgpt.com/share/69c4086d-5f3c-8323-8b38-b7d9c92fac2e"
-    },
-    {
-        "title": "Implement dark light mode",
-        "href": "https://chatgpt.com/share/69c4085b-40e4-8320-8c36-486593350f1f"
-    },
-    {
-        "title": "Non-blocking animations in React",
-        "href": "https://chatgpt.com/share/69c4084a-db3c-83a5-9272-f16cc8d8c727"
-    },
-    {
-        "title": "Tree shaking in React",
-        "href": "https://chatgpt.com/share/68d44d3a-4bc0-8009-a20b-b38fe652ee79"
+        "href": "https://chatgpt.com/share/6ab2bfc4-8ffc-83ee-a562-657e5f7463d0"
     },
     {
         "title": "Concurrent rendering in React 18",
-        "href": "https://chatgpt.com/share/69c407f8-a738-8321-a8ac-10c4a2206c0c"
+        "href": "https://chatgpt.com/share/6ab2bf42-5f64-83ee-a423-efe4e08b5ec5"
     },
     {
         "title": "Bundle splitting strategy",
-        "href": "https://chatgpt.com/share/69c407e6-3e18-8323-a8a6-7f376d841ed5"
+        "href": "https://chatgpt.com/share/6ab2bf2d-81fc-83e8-9aaa-14a4a745cc76"
     },
     {
         "title": "Hydration and streaming React",
-        "href": "https://chatgpt.com/share/69c407d2-8ba8-83a9-b3ef-40f2a455a880"
-    },
-    {
-        "title": "Detecting and fixing re-renders",
-        "href": "https://chatgpt.com/share/69c407d2-8ba8-83a9-b3ef-40f2a455a880"
+        "href": "https://chatgpt.com/share/6ab2bf18-1e44-83ee-bf12-e29b2c773298"
     },
     {
         "title": "React Fiber performance",
-        "href": "https://chatgpt.com/share/69c407af-da74-8322-9b68-79f9abaff409"
+        "href": "https://chatgpt.com/share/6ab2bf02-4c80-83ee-9824-38badc0e3a47"
     },
     {
         "title": "Gzip compression in Webpack",
-        "href": "https://chatgpt.com/share/68d44ea5-c25c-8009-979e-501eb54632e6"
+        "href": "https://chatgpt.com/share/6ab2beed-5cf8-83ee-9a5e-54d35896214d"
     },
     {
         "title": "Webpack bundle splitting",
-        "href": "https://chatgpt.com/share/68d44fa6-9b9c-8009-9467-4095a568fc9d"
+        "href": "https://chatgpt.com/share/6ab2bed7-5364-83ee-8ee0-7c6bdaff83ba"
     },
     {
         "title": "Auto logout in React",
-        "href": "https://chatgpt.com/share/69c40771-4394-8324-afa5-b561e0810c1c"
+        "href": "https://chatgpt.com/share/6ab2bec2-43c4-83ee-ba34-f84a0dee33df"
     },
     {
         "title": "Internationalization in React",
-        "href": "https://chatgpt.com/share/69c4075d-17b4-8324-9f20-ffc79cf496e5"
+        "href": "https://chatgpt.com/share/6ab2beab-756c-83e8-97d4-064be5a61daf"
     },
     {
         "title": "Role-based route protection",
-        "href": "https://chatgpt.com/share/68e95d33-7520-8009-82f4-6fefab05bb5d"
-    },
-    {
-        "title": "Redux Toolkit integration",
-        "href": "https://chatgpt.com/share/69c40724-d968-8321-ac9a-09a448303012"
-    },
-    {
-        "title": "Zustand state management React",
-        "href": "https://chatgpt.com/share/69c40711-d0e0-83a4-abe9-64a911ec6fed"
-    },
-    {
-        "title": "React Redux Interview Qs",
-        "href": "https://chatgpt.com/share/69c406e6-b028-83a3-bf72-17eab4764485"
+        "href": "https://chatgpt.com/share/6ab2be96-c7ac-83e8-ab3e-de53fff7a298"
     },
     {
         "title": "Implementing Redux Toolkit",
-        "href": "https://chatgpt.com/share/69c406d1-b0e0-8323-9d42-6c174939f3df"
+        "href": "https://chatgpt.com/share/6ab2be40-6380-83ee-8c82-3313c06b0a14"
     },
     {
         "title": "useTransition example React",
-        "href": "https://chatgpt.com/share/69c406bc-475c-8323-8d61-c6dbc481b410"
-    },
-    {
-        "title": "Rtk Query in Redux",
-        "href": "https://chatgpt.com/share/69c406a6-d430-8320-bf56-32d997ed4a18"
-    },
-    {
-        "title": "Content vs Normal Hashing",
-        "href": "https://chatgpt.com/share/69c4068d-0d2c-83a9-b95a-0fbf81c1915e"
+        "href": "https://chatgpt.com/share/6ab2be2b-0044-83e8-a875-c72688df3eb0"
     },
     {
         "title": "Plugins vs Loaders",
-        "href": "https://chatgpt.com/share/6960a71d-e104-8009-91a9-60c22ce297ff"
+        "href": "https://chatgpt.com/share/6ab2bde9-b208-83e8-9e47-895f7160eaee"
     },
     {
         "title": "Compression in React Webpack",
-        "href": "https://chatgpt.com/share/69c40666-b69c-8321-b025-16486f401cbb"
-    },
-    {
-        "title": "createAsyncThunk Setup",
-        "href": "https://chatgpt.com/share/69c40651-e348-8320-b38e-00e74baab04b"
-    },
-    {
-        "title": "Redux Data Flow Explained",
-        "href": "https://chatgpt.com/share/69c4063e-7820-8324-be0a-d7ba32dd7113"
+        "href": "https://chatgpt.com/share/6ab2bdd4-8a3c-83e8-b093-38936103c17b"
     },
     {
         "title": "Redux Toolkit Example",
-        "href": "https://chatgpt.com/share/69c4062b-cb84-8323-839f-ee7717adf4f6"
+        "href": "https://chatgpt.com/share/6ab2bd92-c7b4-83e8-997e-01e47c538d74"
     },
     {
         "title": "Redux Toolkit Setup",
-        "href": "https://chatgpt.com/share/69c40614-2f50-8323-81da-40af715f116e"
-    },
-    {
-        "title": "React hook list",
-        "href": "https://chatgpt.com/share/69c40614-2f50-8323-81da-40af715f116e"
-    },
-    {
-        "title": "Micro-Frontend Architecture",
-        "href": "https://chatgpt.com/share/69c405e2-700c-8324-b664-ccb581d2ef5c"
+        "href": "https://chatgpt.com/share/6ab2bd7c-7a58-83ee-8ff9-53c6d563a984"
     },
     {
         "title": "React Fiber Overview",
-        "href": "https://chatgpt.com/share/69c405cf-e924-8321-ac8b-fb42caa6f315"
+        "href": "https://chatgpt.com/share/6ab2bd51-4300-83ee-9174-48ebb571d534"
+    },
+    {
+        "title": "Core Principles of Redux",
+        "href": "https://chatgpt.com/share/6ab2bd25-27c8-83e8-ac4b-db86bc8a7578"
+    },
+    {
+        "title": "Redux Internal Flow",
+        "href": "https://chatgpt.com/share/6ab2bd10-0a64-83ee-8de2-e74130e3c28a"
+    },
+    {
+        "title": "React Design Patterns",
+        "href": "https://chatgpt.com/share/6ab2bcfb-29f0-83e8-8c3e-747bc18894c9"
+    },
+    {
+        "title": "Tearing in React",
+        "href": "https://chatgpt.com/share/6ab2bccf-8938-83e8-9dc5-73db53028e83"
+    },
+    {
+        "title": "CSR SSR SSG ISR Comparison",
+        "href": "https://chatgpt.com/share/6ab2bcba-02d4-83e8-8062-a2f99d8f05dc"
+    },
+    {
+        "title": "Optimizing Large List Rendering",
+        "href": "https://chatgpt.com/share/6ab2bca4-3af0-83e8-ba08-a4df5a1ecdf9"
+    },
+    {
+        "title": "Feature Flags in React",
+        "href": "https://chatgpt.com/share/6ab2bc8f-357c-83e8-8c09-3d597a7e22f2"
+    },
+    {
+        "title": "Lazy Loading in React",
+        "href": "https://chatgpt.com/share/6ab2bc79-4e6c-83ee-aaea-ecddc5ca5a4e"
+    },
+    {
+        "title": "Handling Large Data Sets",
+        "href": "https://chatgpt.com/share/6ab2bc63-d100-83ee-8838-5a72ed2cebd7"
+    },
+    {
+        "title": "Challenging React Optimization",
+        "href": "https://chatgpt.com/share/6ab2bc4e-d064-83ee-a9bb-d934241c00e6"
+    },
+    {
+        "title": "React App Vulnerabilities",
+        "href": "https://chatgpt.com/share/6ab2bc38-e2dc-83e8-8f36-5d5a04ce8ed8"
+    },
+    {
+        "title": "Custom Hook in React",
+        "href": "https://chatgpt.com/share/6ab2bc23-3394-83ee-934b-5df366225a29"
+    },
+    {
+        "title": "useMeta Custom Hook Flow",
+        "href": "https://chatgpt.com/share/6ab2bc0d-b458-83e9-874c-fb2717751b09"
+    },
+    {
+        "title": "Managing Routes in MFE",
+        "href": "https://chatgpt.com/share/6ab2bbce-4db0-83ee-989a-346d4eccc78a"
+    },
+    {
+        "title": "Improve React load time",
+        "href": "https://chatgpt.com/share/6ab2bbb8-4f80-83e8-9342-1e4132f3f200"
+    },
+    {
+        "title": "Handling MFE Version Conflicts",
+        "href": "https://chatgpt.com/share/6ab2bb75-5338-83e8-9903-aa31aedb5a1e"
+    },
+    {
+        "title": "React hook list",
+        "href": "https://chatgpt.com/share/6ab2bb60-7ef4-83ee-b365-4f23f8ea3760"
+    },
+    {
+        "title": "Lazy Initializer + Effect",
+        "href": "https://chatgpt.com/share/6ab2bb49-e8a4-83e8-8aa2-b03520a10fbb"
+    },
+    {
+        "title": "DevTool source-map explained",
+        "href": "https://chatgpt.com/share/6ab2bb1e-3018-83e8-aea4-eac978dbf58e"
+    },
+    {
+        "title": "React Error Boundaries Explained",
+        "href": "https://chatgpt.com/share/6ab2baaf-1158-83e9-9243-4e88bb273d9f"
     },
     {
         "title": "Caching in React build",
-        "href": "https://chatgpt.com/share/69c405bc-0fd8-83a6-9f03-6ed03a9e82e3"
+        "href": "https://chatgpt.com/share/6ab2bac3-accc-83ee-a708-1dc52dbe08fc"
+    },
+    {
+        "title": "React use() API",
+        "href": "https://chatgpt.com/share/6ab2c368-2674-83e8-917e-5a207fc2747b"
+    },
+    {
+        "title": "Frontend SEO and TTI",
+        "href": "https://chatgpt.com/share/6ab2c37e-761c-83e8-9ca1-8bdb51afccd2"
+    },
+    {
+        "title": "MFE Communication Methods",
+        "href": "https://chatgpt.com/share/6ab2d4a2-b664-83ee-bec3-9a83ac5c37e2"
+    },
+    {
+        "title": "Microfrontend Architecture Explained",
+        "href": "https://chatgpt.com/share/6ab2d44c-7c30-83e8-9209-43a8d4d4584b"
+    },
+    {
+        "title": "Webpack Dev Server in React",
+        "href": "https://chatgpt.com/share/6ab2d4da-7bfc-83e8-aa4d-135dee361fae"
+    },
+    {
+        "title": "Why Choose React Frontend",
+        "href": "https://chatgpt.com/share/6ab2c3d3-ccf8-83ee-a3ec-8d8b888685e4"
+    },
+    {
+        "title": "React Portals Usage",
+        "href": "https://chatgpt.com/share/6ab2d516-9988-83ee-855e-fd0a557cd5bc"
+    },
+    {
+        "title": "Micro-Frontend Architecture",
+        "href": "https://chatgpt.com/share/6ab2c3fe-d5c8-83ee-b378-76959d0dd1af"
+    },
+    {
+        "title": "Redux Data Flow Explained",
+        "href": "https://chatgpt.com/share/6ab2c415-43cc-83ee-8c97-b17b03fbea7b"
+    },
+    {
+        "title": "createAsyncThunk Setup",
+        "href": "https://chatgpt.com/share/6ab2c42c-9fac-83e8-a192-d8ae50eb0808"
+    },
+    {
+        "title": "Content vs Normal Hashing",
+        "href": "https://chatgpt.com/share/6ab2d566-85d8-83e8-9f1c-1a2545cffa8c"
+    },
+    {
+        "title": "Rtk Query in Redux",
+        "href": "https://chatgpt.com/share/6ab2c457-aac8-83e9-bdea-8fb355fc1c4c"
+    },
+    {
+        "title": "React Redux Interview Qs",
+        "href": "https://chatgpt.com/share/6ab2c46d-a9fc-83ee-b7ef-e3e6c861433c"
+    },
+    {
+        "title": "Zustand state management React",
+        "href": "https://chatgpt.com/share/6ab2c483-fc74-83ee-8eb1-0d09ba158e09"
+    },
+    {
+        "title": "Redux Toolkit integration",
+        "href": "https://chatgpt.com/share/6ab2d5b1-032c-83e8-9a0a-f9e9ee9f6162"
+    },
+    {
+        "title": "Tree shaking in React",
+        "href": "https://chatgpt.com/share/6ab2d5f1-0a70-83ee-a725-5b4f7a97a40f"
+    },
+    {
+        "title": "Non-blocking animations in React",
+        "href": "https://chatgpt.com/share/6ab2c4c5-33fc-83e8-9fce-89e813c933d9"
+    },
+    {
+        "title": "Implement dark light mode",
+        "href": "https://chatgpt.com/share/6ab2c4da-d46c-83e8-a2bb-d3284c3971d7"
+    },
+    {
+        "title": "Avoid context re-renders",
+        "href": "https://chatgpt.com/share/6ab2c4f0-b6b8-83ee-9bdd-3955dd2914bb"
+    },
+    {
+        "title": "React app performance tips",
+        "href": "https://chatgpt.com/share/6ab2c506-fd34-83ee-9e62-2254f755939d"
+    },
+    {
+        "title": "useLayoutEffect explanation",
+        "href": "https://chatgpt.com/share/6ab2c51c-694c-83e8-afb9-32c20414914b"
+    },
+    {
+        "title": "Avoid re-renders with hooks",
+        "href": "https://chatgpt.com/share/6ab2c532-1038-83ee-aa49-ec36be3f6e0d"
+    },
+    {
+        "title": "Benefits of Custom Hooks",
+        "href": "https://chatgpt.com/share/6ab2c548-7bd4-83e8-9a09-64400d02dc8d"
+    },
+    {
+        "title": "Create custom store React",
+        "href": "https://chatgpt.com/share/6ab2c55d-6fd0-83e9-9ae6-6c2e2af2ddf4"
+    },
+    {
+        "title": "React 18 19 Hooks",
+        "href": "https://chatgpt.com/share/6ab2c574-4108-83e8-9b7b-e97ca139a969"
+    },
+    {
+        "title": "Reconciliation in React",
+        "href": "https://chatgpt.com/share/6ab2c589-e1c4-83ee-8972-aebd23c09871"
+    },
+    {
+        "title": "React Query overview",
+        "href": "https://chatgpt.com/share/6ab2c5a0-02ac-83e8-82f1-33518aefa560"
+    },
+    {
+        "title": "React security practices",
+        "href": "https://chatgpt.com/share/6ab2c5b6-5c64-83e8-893f-4d07b82e5beb"
+    },
+    {
+        "title": "useTransition hook explanation",
+        "href": "https://chatgpt.com/share/6ab2c5cd-01e8-83e8-b357-082b024dcbde"
+    },
+    {
+        "title": "React JS hooks list",
+        "href": "https://chatgpt.com/share/6ab2d629-d124-83ee-a136-dde0f2c95a96"
+    },
+    {
+        "title": "React useState Difference",
+        "href": "https://chatgpt.com/share/6ab2c5f7-5164-83ee-b80f-9be06ef8e9cf"
+    },
+    {
+        "title": "useEffect Infinite Loop",
+        "href": "https://chatgpt.com/share/6ab2c60b-fe40-83e9-82c5-f218b01a4dca"
+    },
+    {
+        "title": "React State Mutation Issue",
+        "href": "https://chatgpt.com/share/6ab2c622-00ec-83ee-8ba8-a948a21d1f7a"
+    },
+    {
+        "title": "Detecting and fixing re-renders",
+        "href": "https://chatgpt.com/share/6ab2c638-32f8-83e8-8a46-ab7ccb0b2de6"
     }
-];
+]
 
 const TYPE_SCRIPT = [
   {
@@ -393,52 +485,128 @@ const TYPE_SCRIPT = [
 
 const JAVASCRIPT = [
   {
-    "title": "JavaScript Map Types",
-    "href": "https://chatgpt.com/share/69c8e0ef-cbd0-83a6-a3de-25698964160d"
+    "title": "Browser Reflow vs Paint",
+    "href": "https://chatgpt.com/share/6aa426da-e44c-83e8-8aa0-36828436b615"
   },
   {
-    "title": "Garbage Collection in JS",
-    "href": "https://chatgpt.com/share/69c8e0db-56dc-8322-9f68-ddcea731eae8"
+    "title": "ES6 Polyfills map filter reduce",
+    "href": "https://chatgpt.com/share/6aa52ef3-ca20-83ee-b965-011df388acd3"
   },
   {
-    "title": "Hoisting in JavaScript",
-    "href": "https://chatgpt.com/share/69c8e0c6-cb68-8320-901d-36373ebc4433"
+    "title": "Currying in JavaScript",
+    "href": "https://chatgpt.com/share/6aa42b04-850c-83e8-9874-736f252ea1a0"
   },
   {
-    "title": "Async vs Regular Functions",
-    "href": "https://chatgpt.com/share/69c8e0b2-48f4-8323-8feb-67fa30d73d62"
+    "title": "Debouncing and Throttling JS",
+    "href": "https://chatgpt.com/share/6aa42b19-38b4-83ee-924f-8e08141cf59e"
   },
   {
-    "title": "Map WeakMap Set Differences",
-    "href": "https://chatgpt.com/share/69c8e09d-c66c-8321-8262-6f8fea393b64"
-  },
-  {
-    "title": "JavaScript this behavior",
-    "href": "https://chatgpt.com/share/69c8e089-c0d8-8323-bb4c-362793d1a88a"
-  },
-  {
-    "title": "Critical Rendering Path",
-    "href": "https://chatgpt.com/share/69c8e074-60d8-83a4-92b3-9c57b717583b"
-  },
-  {
-    "title": "Shallow vs Deep Copy JS",
-    "href": "https://chatgpt.com/share/69c8e05f-e29c-8324-be6a-481468e374ab"
+    "title": "ES6 and ES7 Features",
+    "href": "https://chatgpt.com/share/6aa42b2e-42cc-83e8-a244-a0788d764a66"
   },
   {
     "title": "Promise Async/Await Explained",
-    "href": "https://chatgpt.com/share/69c8e04b-4834-8322-99c3-54a648e881fd"
+    "href": "https://chatgpt.com/share/6aa42b44-8aa8-83ee-a620-3f7d95db748b"
   },
   {
-    "title": "Variable Redeclaration Error",
-    "href": "https://chatgpt.com/share/69c8e003-857c-83a3-9a3a-dfd24064d4e1"
+    "title": "Shallow vs Deep Copy JS",
+    "href": "https://chatgpt.com/share/6aa42b44-8aa8-83ee-a620-3f7d95db748b"
+  },
+  {
+    "title": "JavaScript this behavior",
+    "href": "https://chatgpt.com/share/6aa42b6f-384c-83e8-bf55-936ff11c6b96"
+  },
+  {
+    "title": "Map WeakMap Set Differences",
+    "href": "https://chatgpt.com/share/6aa42b83-cec4-83e8-8150-a0630c328714"
+  },
+  {
+    "title": "Hoisting in JavaScript",
+    "href": "https://chatgpt.com/share/6aa42b98-faf0-83e8-9f2e-d03f60afa1db"
+  },
+  {
+    "title": "Hoisting in JavaScript",
+    "href": "https://chatgpt.com/share/6aa42b98-faf0-83e8-9f2e-d03f60afa1db"
+  },
+  {
+    "title": "Expiration for Storage Methods",
+    "href": "https://chatgpt.com/share/6aa42bc2-e218-83ee-a372-acb58f4e4afc"
+  },
+  {
+    "title": "Callback to Promise Conversion",
+    "href": "https://chatgpt.com/share/6aa42bd7-e6d8-83e8-8f5b-ee9b91b9b542"
+  },
+  {
+    "title": "Event Delegation in JS",
+    "href": "https://chatgpt.com/share/6aa42bed-4208-83e8-9dc7-a3b1114de205"
+  },
+  {
+    "title": "Nullish Coalescing vs OR",
+    "href": "https://chatgpt.com/share/6aa42c02-1344-83e8-b49f-f03609dbb077"
+  },
+  {
+    "title": "Async/Await in JS",
+    "href": "https://chatgpt.com/share/6aa42c17-7624-83e9-8c54-a1b533e4aeb9"
+  },
+  {
+    "title": "Promises vs Callbacks",
+    "href": "https://chatgpt.com/share/6aa42c2c-6178-83e8-bd92-55312ecef9a5"
+  },
+  {
+    "title": "Lexical Scope in JS",
+    "href": "https://chatgpt.com/share/6aa42c41-cf34-83ee-bf8d-4ab06e3e13e5"
+  },
+  {
+    "title": "Method Chaining in JS",
+    "href": "https://chatgpt.com/share/6aa42c56-93a4-83ee-a9c3-dceecc3a75a7"
+  },
+  {
+    "title": "JavaScript Coupling Type",
+    "href": "https://chatgpt.com/share/6aa42c6b-c7bc-83ee-aca9-c34813314b7d"
+  },
+  {
+    "title": "Call Apply Bind Deep Dive",
+    "href": "https://chatgpt.com/share/6aa42c80-f0dc-83e8-9987-5be9f5e33330"
+  },
+  {
+    "title": "Hoisting and TDZ",
+    "href": "https://chatgpt.com/share/6aa42c95-d278-83e8-9f37-5b4d39a7d517"
+  },
+  {
+    "title": "Promise in JavaScript",
+    "href": "https://chatgpt.com/share/6aa42cab-37a8-83e8-8e2a-a30cf635df0c"
+  },
+  {
+    "title": "ES6 Features Explained",
+    "href": "https://chatgpt.com/share/6aa42cab-37a8-83e8-8e2a-a30cf635df0c"
+  },
+  {
+    "title": "JavaScript Map Types",
+    "href": "https://chatgpt.com/share/6aa42cd7-dff8-83e8-b952-edf34c609383"
+  },
+  {
+    "title": "What is web vitals",
+    "href": "https://chatgpt.com/share/6aa42ceb-67e4-83ee-8d21-4c346f36fa16"
   },
   {
     "title": "LocalStorage vs HttpOnly Cookies",
-    "href": "https://chatgpt.com/share/69c99710-2594-8323-9dc7-771a7ca3a4c1"
+    "href": "https://chatgpt.com/share/6aa42d00-e620-83e8-9c56-3461c0317b99"
   },
   {
-    "title": "Web Vitals Explained",
-    "href": "https://chatgpt.com/share/69c99724-c248-8321-a654-33d89df74003"
+    "title": "Variable Redeclaration Error",
+    "href": "https://chatgpt.com/share/6aa42d16-016c-83ee-bda0-396e22645b5f"
+  },
+  {
+    "title": "Critical Rendering Path",
+    "href": "https://chatgpt.com/share/6aa42d16-016c-83ee-bda0-396e22645b5f"
+  },
+  {
+    "title": "Async vs Regular Functions",
+    "href": "https://chatgpt.com/share/6aa42d40-21a4-83e9-b5f7-4dfb7f8435ae"
+  },
+  {
+    "title": "Garbage Collection in JS",
+    "href": "https://chatgpt.com/share/6aa42d55-89dc-83e8-9729-1040ff6ec43f"
   }
 ];
 
